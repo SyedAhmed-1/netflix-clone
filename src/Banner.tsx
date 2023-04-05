@@ -39,7 +39,7 @@ console.log(movie.backdrop_path)
       style={{
         backgroundImage: `url("https://image.tmdb.org/t/p/original/${movie?.backdrop_path}")`,
       }}
-      className= " text-white object-contain  h-103  bg-center"
+      className= " text-white object-contain  h-103  bg-top"
     >
       <div className="ml-7 pt-32 h-48">
         <h1 className=" text-5xl font-extrabold mb-14">
